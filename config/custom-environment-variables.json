@@ -1,0 +1,5 @@
+{
+  "jwtSecretKey" : "JWT_SECRET_KEY",
+  "stripePublickey" : "STRIPE_PUBLISHABLE_KEY",
+  "stripeSecretkey": "STRIPE_SECRET_KEY"
+}

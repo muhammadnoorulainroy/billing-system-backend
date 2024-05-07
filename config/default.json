@@ -1,0 +1,5 @@
+{
+  "jwtSecretKey" : "",
+  "stripePublickey" : "",
+  "stripeSecretkey": ""
+}
